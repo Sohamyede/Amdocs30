@@ -1,0 +1,4 @@
+kafka data warehouse
+Aws Glue Athena(Query Editor)
+Redshift AWS data warehouse
+def fun(): bcz Tomal told
